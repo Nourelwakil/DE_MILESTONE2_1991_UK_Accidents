@@ -1,0 +1,9 @@
+,accident_severity,Label(s),light_conditions,Label(l),weather_conditions,Label(w),road_surface_conditions,Label(r)
+0,Serious,1,Daylight,4,Fine no high winds,1,Dry,0
+1,Slight,2,Darkness - no lighting,3,Raining no high winds,5,Wet or damp,4
+2,Fatal,0,Darkness - lights lit,1,Other,3,Frost or ice,2
+3,,,Darkness - lighting unknown,0,Raining + high winds,4,Snow,3
+4,,,Darkness - lights unlit,2,Fine + high winds ,0,Flood over 3cm. deep,1
+5,,,,,Fog or mist,2,,
+6,,,,,Snowing no high winds,7,,
+7,,,,,Snowing + high winds,6,,
